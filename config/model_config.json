@@ -1,0 +1,7 @@
+{
+  "embedder_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "qa_model": "deepset/roberta-base-squad2",
+  "chunk_size": 500,
+  "top_k": 5,
+  "min_confidence": 0.3
+}
