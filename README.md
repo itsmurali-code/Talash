@@ -55,5 +55,5 @@ Models: `MiniLM-L6-v2`, `RoBERTa-base-SQuAD2`, `LLaMA3-8B-8192`
 
 ***
 
-**Your app will start in the browser automatically. You are now ready to use the application!**
+We still figuring out the model to be answerable for Blooms taxonomy's level 3 and more help us @itsmuruli@gmail.com
 
