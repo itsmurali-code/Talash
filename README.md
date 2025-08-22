@@ -23,3 +23,37 @@ This project implements a scalable, modular question-answering pipeline using La
 `Python` · `LangChain` · `FAISS` · `sentence-transformers` · `HuggingFace` · `Streamlit`  
 Models: `MiniLM-L6-v2`, `RoBERTa-base-SQuAD2`, `LLaMA3-8B-8192`
 
+
+
+## Installation and Run Guide
+
+1. **Download the File**
+   - Download the project zip file (e.g., `project.zip`).
+
+2. **Extract the File**
+   - Right-click the downloaded zip file.
+   - Select “Extract All” and choose your destination folder.
+
+3. **Open Pharm IDE**
+   - Launch Pharm IDE on your computer.
+
+4. **Install Required Requirements**
+   - Open the terminal in Pharm IDE.
+   - Navigate (cd) to the extracted project folder.
+
+5. **Install Dependencies**
+   - Run the following command to install dependencies listed in `requirements.txt`:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+6. **Run the Project**
+   - In the same terminal, start your Streamlit application by typing:
+     ```bash
+     streamlit run app.py
+     ```
+
+***
+
+**Your app will start in the browser automatically. You are now ready to use the application!**
+
